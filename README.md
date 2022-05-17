@@ -2,15 +2,11 @@
 
 #### 介绍
 
-一个含有一些有趣特性的linux的发行版，参照[Linux From Scratch](https://www.linuxfromscratch.org/)进行建构，欢迎添砖加瓦
+一个含有一些有趣特性的基于linux的操作系统，参考[Linux From Scratch](https://www.linuxfromscratch.org/)进行建构。更多特性正在讨论中。
+欢迎添砖加瓦。
 
-#### 安装教程
-
-
-
-#### 使用说明
-
-
+#### 参与讨论
+用issue参与讨论。
 
 #### 参与贡献
 
@@ -19,5 +15,4 @@
 3.  提交代码
 4.  新建 Pull Request
 
-
-#### 特技
+#### 特性
