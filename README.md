@@ -7,6 +7,7 @@
 
 #### 参与讨论
 用issue参与讨论。
+如有条件，可以通过github讨论。[Discussions](https://github.com/MontyPyclub/Montix/discussions)
 
 #### 参与贡献
 
