@@ -2,22 +2,15 @@
 
 #### 介绍
 
-
-#### 软件架构
-软件架构说明
-
+一个含有一些有趣特性的linux的发行版，参照[Linux From Scratch](https://www.linuxfromscratch.org/)进行建构，欢迎添砖加瓦
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+
 
 #### 参与贡献
 
